@@ -1,4 +1,6 @@
 .boxColor-container {
-    height: 180px;
-    margin: 20px;
+    margin: 5px;
+    border: 1px solid #000;
+    color: white;
+    text-align: center;
 }
