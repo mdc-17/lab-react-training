@@ -1,0 +1,15 @@
+.creditCard{
+    font: 16px/1.5 'Helvetica Neue', Helvetica, sans-serif;
+    width: 425px;
+    height: 270px;
+    text-align: left;
+    padding: 30px;
+    border-radius: 20px;
+  }
+  .logo{
+    width:5em;
+    float: right;
+  }
+  .numCreditCard{
+    border-radius: solid black 20px;
+  }
